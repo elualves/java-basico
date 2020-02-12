@@ -8,7 +8,7 @@ public class InteiroByte {
 		byte tipoByte1 = -128;
 		byte tipoByte2 = 127;
 		
-		System.out.println("Aceita valores no intervalo aberto de " + tipoByte1 + " e " + tipoByte2);
+		System.out.println("Aceita valores no intervalo aberto entre " + tipoByte1 + " e " + tipoByte2);
 	}
 
 }
