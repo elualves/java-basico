@@ -2,7 +2,7 @@ package com.eduardoalves.conteudo010.vetores;
 
 import java.util.Scanner;
 
-public class MultiplicaElementoDoVetor {
+public class Vetor003MultiplicaElementoDoVetor {
 
 	public static void main(String[] args) {
 		/*
