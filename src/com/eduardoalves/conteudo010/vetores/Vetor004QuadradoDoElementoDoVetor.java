@@ -8,9 +8,9 @@ public class Vetor004QuadradoDoElementoDoVetor {
 		 */
 		int[] a = new int[5];
 		int[] b = new int[a.length];
-		a[0] = 2;
-		a[1] = 4;
-		a[2] = 6;
+		a[0] = 4;
+		a[1] = 6;
+		a[2] = 8;
 		a[3] = 8;
 		a[4] = 10;
 
