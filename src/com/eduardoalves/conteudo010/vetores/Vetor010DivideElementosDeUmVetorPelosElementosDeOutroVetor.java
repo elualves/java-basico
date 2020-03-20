@@ -6,7 +6,7 @@ public class Vetor010DivideElementosDeUmVetorPelosElementosDeOutroVetor {
 
 		public static void main(String[] args) {
 			/*
-			 *Divide os elementos de um vetor pelos elementos de outro vetor, c[i]=a[i]*b[i].
+			 *Divide os elementos de um vetor pelos elementos de outro vetor, c[i]=a[i]/b[i].
 			 */
 			Scanner teclar = new Scanner(System.in);
 			int[] a = new int[5];
