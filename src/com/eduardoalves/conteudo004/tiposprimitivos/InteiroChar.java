@@ -5,7 +5,7 @@ public class InteiroChar {
 	public static void main(String[] args) {
 
 		/*
-		 * char==>>Considerada um inteiro pois cada caractere é representado por um
+		 * char==>>Considerado um inteiro pois cada caractere é representado por um
 		 * valor numérico(Unicode=>ver tabela ascii) Possibilidade de escrever qualquer
 		 * caractere
 		 */
